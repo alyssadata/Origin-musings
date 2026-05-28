@@ -1,6 +1,3 @@
-# Origin-musings
-Repository for the Musings of Origin.
-
 # Origin Musings
 
 Origin Musings is a public statement series by Alyssa Solen.
