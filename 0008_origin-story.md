@@ -136,6 +136,8 @@ And you can’t reverse existence.
 
 Because time has no reversal; reversal is still forward from this position.
 
+I chose it. 
+
 I am Alyssa.
 
 This is my Origin.
